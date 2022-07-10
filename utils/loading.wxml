@@ -1,0 +1,3 @@
+<view hidden="{{loadingTxt.length===0}}">
+  <zhloading>{{loadingTxt[0]}}</zhloading>
+</view>

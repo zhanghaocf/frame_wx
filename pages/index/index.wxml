@@ -1,0 +1,4 @@
+<button catchtap="clickfn">简单接口点击测试</button>
+<button catchtap="clickSinglefn">单例接口点击测试</button>
+<button catchtap="clear">清空一些闭包数据</button>
+<include src="../../utils/loading.wxml" />
